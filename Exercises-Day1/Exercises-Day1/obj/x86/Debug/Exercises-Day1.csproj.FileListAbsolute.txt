@@ -1,0 +1,5 @@
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\Exercises-Day1\Exercises-Day1\bin\Debug\Exercises-Day1.exe
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\Exercises-Day1\Exercises-Day1\bin\Debug\Exercises-Day1.pdb
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\Exercises-Day1\Exercises-Day1\obj\x86\Debug\Exercises-Day1.exe
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\Exercises-Day1\Exercises-Day1\obj\x86\Debug\Exercises-Day1.pdb
+C:\Users\puneeth.narayana\Documents\Visual Studio 2010\Projects\Exercises-Day1\Exercises-Day1\obj\x86\Debug\Exercises-Day1.csprojResolveAssemblyReference.cache

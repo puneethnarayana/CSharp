@@ -1,0 +1,4 @@
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\SwitchExercise\SwitchExercise\bin\Debug\SwitchExercise.exe
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\SwitchExercise\SwitchExercise\bin\Debug\SwitchExercise.pdb
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\SwitchExercise\SwitchExercise\obj\x86\Debug\SwitchExercise.exe
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\SwitchExercise\SwitchExercise\obj\x86\Debug\SwitchExercise.pdb
