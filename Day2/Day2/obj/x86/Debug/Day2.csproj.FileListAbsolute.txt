@@ -1,0 +1,4 @@
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\Day2\Day2\bin\Debug\Day2.exe
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\Day2\Day2\bin\Debug\Day2.pdb
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\Day2\Day2\obj\x86\Debug\Day2.exe
+c:\users\puneeth.narayana\documents\visual studio 2010\Projects\Day2\Day2\obj\x86\Debug\Day2.pdb
